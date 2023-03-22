@@ -1,3 +1,4 @@
-# MindMate
+# Project MindMate
+A Chatbot Model
 
 
